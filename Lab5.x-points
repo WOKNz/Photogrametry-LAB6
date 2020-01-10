@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE phini SYSTEM "phini4.dtd">
+<phini><!-- 6.4.2295 Lite x64 -->
+  <x n="info">
+    <s n="timestamp" v="2019-11-27T17:35:36.5107986+02:00"/>
+    <s n="project_id" v="/Virtual Folder/Lab5"/>
+  </x>
+  <i n="code_g_counter" v="20"/>
+  <i n="modification_counter" v="1"/>
+  <x n="images">
+    <x>
+      <i n="code_im" v="3574"/>
+      <s n="name" v="AR112-3574"/>
+      <x n="dimensions"><i n="x" v="15360"/><i n="y" v="14848"/></x>
+    </x>
+    <x>
+      <i n="code_im" v="3575"/>
+      <s n="name" v="AR112-3575"/>
+      <x n="dimensions"><i n="x" v="15360"/><i n="y" v="14848"/></x>
+    </x>
+  </x>
+  <x n="points">
+    <x>
+      <x n="attributes">
+        <i n="code_g" v="1"/>
+        <i n="ser_counter" v="1"/>
+        <s n="name" v="Pt0001"/>
+        <s n="type" v="control"/>
+        <x n="coords_g"><d n="x" v="2.0241031400000001e+005"/><d n="y" v="7.4197978000000003e+005"/><d n="z" v="2.5301200000000000e+002"/></x>
+        <x n="r_std_dev_g"><d n="x" v="5.0000000000000000e+000"/><d n="y" v="5.0000000000000000e+000"/><d n="z" v="5.0000000000000000e+000"/></x>
+      </x>
+      <x n="measurements">
+        <x>
+          <i n="code_im" v="3575"/>
+          <x n="coords_pix"><d n="x" v="7.1777500000000000e+003"/><d n="y" v="9.1322500000000018e+003"/></x>
+        </x>
+        <x>
+          <i n="code_im" v="3574"/>
+          <x n="coords_pix"><d n="x" v="1.2386666666666652e+003"/><d n="y" v="9.0653333333333376e+003"/></x>
+        </x>
+      </x>
+    </x>
+    <x>
+      <x n="attributes">
+        <i n="code_g" v="2"/>
+        <i n="ser_counter" v="1"/>
+        <s n="name" v="Pt0002"/>
+        <s n="type" v="control"/>
+        <x n="coords_g"><d n="x" v="2.0266396799999999e+005"/><d n="y" v="7.4221188100000005e+005"/><d n="z" v="2.0119800000000001e+002"/></x>
+        <x n="r_std_dev_g"><d n="x" v="5.0000000000000000e+000"/><d n="y" v="5.0000000000000000e+000"/><d n="z" v="5.0000000000000000e+000"/></x>
+      </x>
+      <x n="measurements">
+        <x>
+          <i n="code_im" v="3575"/>
+          <x n="coords_pix"><d n="x" v="7.3560000000000009e+003"/><d n="y" v="4.4730000000000027e+003"/></x>
+        </x>
+        <x>
+          <i n="code_im" v="3574"/>
+          <x n="coords_pix"><d n="x" v="1.8214285714285675e+003"/><d n="y" v="4.3891428571428605e+003"/></x>
+        </x>
+      </x>
+    </x>
+    <x>
+      <x n="attributes">
+        <i n="code_g" v="3"/>
+        <i n="ser_counter" v="1"/>
+        <s n="name" v="Pt0003"/>
+        <s n="type" v="control"/>
+        <x n="coords_g"><d n="x" v="2.0284471799999999e+005"/><d n="y" v="7.4236676100000006e+005"/><d n="z" v="1.6622700000000000e+002"/></x>
+        <x n="r_std_dev_g"><d n="x" v="5.0000000000000000e+000"/><d n="y" v="5.0000000000000000e+000"/><d n="z" v="5.0000000000000000e+000"/></x>
+      </x>
+      <x n="measurements">
+        <x>
+          <i n="code_im" v="3575"/>
+          <x n="coords_pix"><d n="x" v="7.3620000000000000e+003"/><d n="y" v="1.6340000000000014e+003"/></x>
+        </x>
+        <x>
+          <i n="code_im" v="3574"/>
+          <x n="coords_pix"><d n="x" v="2.0691999999999962e+003"/><d n="y" v="1.5404000000000012e+003"/></x>
+        </x>
+      </x>
+    </x>
+    <x>
+      <x n="attributes">
+        <i n="code_g" v="4"/>
+        <i n="ser_counter" v="1"/>
+        <s n="name" v="Pt0004"/>
+        <s n="type" v="control"/>
+        <x n="coords_g"><d n="x" v="2.0217973800000001e+005"/><d n="y" v="7.4242511499999999e+005"/><d n="z" v="2.2946700000000001e+002"/></x>
+        <x n="r_std_dev_g"><d n="x" v="5.0000000000000000e+000"/><d n="y" v="5.0000000000000000e+000"/><d n="z" v="5.0000000000000000e+000"/></x>
+      </x>
+      <x n="measurements">
+        <x>
+          <i n="code_im" v="3575"/>
+          <x n="coords_pix"><d n="x" v="1.3896857142857141e+004"/><d n="y" v="7.4568571428571458e+003"/></x>
+        </x>
+        <x>
+          <i n="code_im" v="3574"/>
+          <x n="coords_pix"><d n="x" v="8.2006666666666642e+003"/><d n="y" v="7.3180000000000036e+003"/></x>
+        </x>
+      </x>
+    </x>
+    <x>
+      <x n="attributes">
+        <i n="code_g" v="5"/>
+        <i n="ser_counter" v="1"/>
+        <s n="name" v="Pt0005"/>
+        <s n="type" v="control"/>
+        <x n="coords_g"><d n="x" v="2.0237242400000000e+005"/><d n="y" v="7.4258545400000003e+005"/><d n="z" v="1.9971199999999999e+002"/></x>
+        <x n="r_std_dev_g"><d n="x" v="5.0000000000000000e+000"/><d n="y" v="5.0000000000000000e+000"/><d n="z" v="5.0000000000000000e+000"/></x>
+      </x>
+      <x n="measurements">
+        <x>
+          <i n="code_im" v="3575"/>
+          <x n="coords_pix"><d n="x" v="1.3568000000000004e+004"/><d n="y" v="4.1725000000000018e+003"/></x>
+        </x>
+        <x>
+          <i n="code_im" v="3574"/>
+          <x n="coords_pix"><d n="x" v="8.0886666666666633e+003"/><d n="y" v="4.0306666666666697e+003"/></x>
+        </x>
+      </x>
+    </x>
+    <x>
+      <x n="attributes">
+        <i n="code_g" v="6"/>
+        <i n="ser_counter" v="1"/>
+        <s n="name" v="Pt0006"/>
+        <s n="type" v="control"/>
+        <x n="coords_g"><d n="x" v="2.0249219800000000e+005"/><d n="y" v="7.4280412100000004e+005"/><d n="z" v="1.7853700000000001e+002"/></x>
+        <x n="r_std_dev_g"><d n="x" v="5.0000000000000000e+000"/><d n="y" v="5.0000000000000000e+000"/><d n="z" v="5.0000000000000000e+000"/></x>
+      </x>
+      <x n="measurements">
+        <x>
+          <i n="code_im" v="3575"/>
+          <x n="coords_pix"><d n="x" v="1.4489000000000002e+004"/><d n="y" v="1.3100000000000011e+003"/></x>
+        </x>
+        <x>
+          <i n="code_im" v="3574"/>
+          <x n="coords_pix"><d n="x" v="9.1579999999999982e+003"/><d n="y" v="1.1570000000000014e+003"/></x>
+        </x>
+      </x>
+    </x>
+  </x>
+</phini>

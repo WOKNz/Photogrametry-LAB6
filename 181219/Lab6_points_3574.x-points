@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE phini SYSTEM "phini4.dtd">
+<phini><!-- 6.5.2764 Lite x64 -->
+  <x n="info">
+    <s n="timestamp" v="2019-12-18T22:27:54.6949920+02:00"/>
+    <s n="project_id" v="/VirtualFolder/Photoggrametry"/>
+  </x>
+  <i n="code_g_counter" v="24"/>
+  <i n="modification_counter" v="2"/>
+  <x n="images">
+    <x>
+      <i n="code_im" v="3574"/>
+      <s n="name" v="AR112-3574"/>
+      <x n="dimensions"><i n="x" v="15360"/><i n="y" v="14848"/></x>
+    </x>
+    <x>
+      <i n="code_im" v="3575"/>
+      <s n="name" v="AR112-3575"/>
+      <x n="dimensions"><i n="x" v="15360"/><i n="y" v="14848"/></x>
+    </x>
+  </x>
+  <x n="points">
+    <x>
+      <x n="attributes">
+        <i n="code_g" v="21"/>
+        <i n="ser_counter" v="2"/>
+        <s n="name" v="*1"/>
+        <s n="type" v="check"/>
+      </x>
+      <x n="measurements">
+        <x>
+          <i n="code_im" v="3575"/>
+          <x n="coords_pix"><d n="x" v="1.1388727738039233e+04"/><d n="y" v="5.3548119937830807e+03"/></x>
+        </x>
+        <x>
+          <i n="code_im" v="3574"/>
+          <x n="coords_pix"><d n="x" v="5.7443789415916826e+03"/><d n="y" v="5.2363212163360768e+03"/></x>
+        </x>
+      </x>
+    </x>
+    <x>
+      <x n="attributes">
+        <i n="code_g" v="22"/>
+        <i n="ser_counter" v="2"/>
+        <s n="name" v="*2"/>
+        <s n="type" v="check"/>
+      </x>
+      <x n="measurements">
+        <x>
+          <i n="code_im" v="3575"/>
+          <x n="coords_pix"><d n="x" v="1.0881798357826410e+04"/><d n="y" v="5.3369170702164902e+03"/></x>
+        </x>
+        <x>
+          <i n="code_im" v="3574"/>
+          <x n="coords_pix"><d n="x" v="5.4084185149455434e+03"/><d n="y" v="5.1660769444135940e+03"/></x>
+        </x>
+      </x>
+    </x>
+    <x>
+      <x n="attributes">
+        <i n="code_g" v="23"/>
+        <i n="ser_counter" v="2"/>
+        <s n="name" v="*3"/>
+        <s n="type" v="check"/>
+      </x>
+      <x n="measurements">
+        <x>
+          <i n="code_im" v="3575"/>
+          <x n="coords_pix"><d n="x" v="1.0864196625892764e+04"/><d n="y" v="5.8527245295351149e+03"/></x>
+        </x>
+        <x>
+          <i n="code_im" v="3574"/>
+          <x n="coords_pix"><d n="x" v="5.2214227666886190e+03"/><d n="y" v="5.7396148848740904e+03"/></x>
+        </x>
+      </x>
+    </x>
+    <x>
+      <x n="attributes">
+        <i n="code_g" v="24"/>
+        <i n="ser_counter" v="2"/>
+        <s n="name" v="*4"/>
+        <s n="type" v="check"/>
+      </x>
+      <x n="measurements">
+        <x>
+          <i n="code_im" v="3575"/>
+          <x n="coords_pix"><d n="x" v="1.1372972152119182e+04"/><d n="y" v="5.8708312782512112e+03"/></x>
+        </x>
+        <x>
+          <i n="code_im" v="3574"/>
+          <x n="coords_pix"><d n="x" v="5.7310058205747337e+03"/><d n="y" v="5.7529671076905224e+03"/></x>
+        </x>
+      </x>
+    </x>
+  </x>
+</phini>

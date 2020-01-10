@@ -1,0 +1,24 @@
+Focal Length (mm)
+   153.324
+Principal Point Offset xpoff ypoff in mm 
+  -0.0020   0.004
+How many fiducial pairs (max 8):
+   8
+Fiducial x,y pairs in mm
+   -106.004     106.002
+    105.997     105.998
+   -105.998    -105.999
+    106.001    -106.000
+     -0.005     112.002
+    111.995      -0.003
+     -0.001    -111.999
+   -112.000       0.005
+Symmetrical Lens Distortion Odd-order Poly Coeffs c0,c1,c2,c3 (c0=offset)
+   -5.000e-04   -8.000e-08   1.000e-12   0.000e+00
+Decentering Lens Coeffs p1,p2,p3
+   0.000e+00   0.000e+00   0.000e+00
+How many distortion pairs (max 20):
+   0
+Distortion Data Units (m=radial dist in mm, d=field angle in deg):
+   m
+Distortion Data Pairs, if any (Radius in mm or deg, Distortion in Microns):
